@@ -215,7 +215,7 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Coded by @berkindev
+          Coded by @sks
         </a>
       </footer>
     </div>
