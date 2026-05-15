@@ -7,11 +7,6 @@ Just write and preview.
 
 ---
 
-## Live Demo
-
-https://markdown-preview-taupe.vercel.app/
-
----
 
 ## Features
 
@@ -68,7 +63,6 @@ No data is sent to any server.
 
 ```bash
 # Clone the repo
-git clone https://github.com/berkinyilmaz/markdown-preview.git
 
 # Install dependencies
 cd markdown-preview
